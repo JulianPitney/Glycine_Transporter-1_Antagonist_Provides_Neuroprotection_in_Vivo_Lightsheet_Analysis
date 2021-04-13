@@ -1,6 +1,6 @@
 # Lightsheet Deep Learning Analyse
 ## 0. Introduction(What and Why)
-This step is for segmenting the Stroke region in the scans using a convolutional deep learning structure `Bisenet`. The identified stroke region will be used
+This step is for segmenting the Stroke region in the scans using a convolutional deep learning structure `Bisenet`. The identified stroke region will be used for cropping the scans. Besides, the stroke volume is also calculated in this step.
 ## 1. Install and Requirements
 * `cd Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/Step1_GenStrokeMask/requirements`
 * `conda create --name <myenv> --file spec-file.txt` Replace tokens marked as <token> with your own values.
