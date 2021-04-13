@@ -19,3 +19,4 @@
 * `conda activate <myenv>`
 * `cd  Step1_GenStrokeMask/src`
 * `python predict.py`
+* ![Graphic User Interface](https://github.com/JulianPitney/Glycine_Transporter1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/blob/7ffbd182da3bd279fea07e0823377d932f5c9425/Step1_GenStrokeMask/Capture.JPG ''Graphic User Interface'')
