@@ -22,13 +22,14 @@ The terastitch.py script in this repository takes a directory of tiled lightshee
 | Python | 3.6.7 |
 
 **Inputs:** A directory of tiled lightsheet scans following the directory structure outlined by TeraStitcher's documentation.
+
 **Outputs:** A single stitched scan for each set of tiles supplied as input.
 
 **Steps:**
 
 1. Download Terastitcher-portable (command-line version) from TeraStitcher's GitHub page -> (https://github.com/abria/TeraStitcher/wiki/Binary-packages)
 
-  Verion: `TeraStitcher-portable-1.11.10-win64`
+  Version: `TeraStitcher-portable-1.11.10-win64`
 
   Once downloaded and extracted, add `~\TeraStitcher-portable-1.11.10-win64\` to your windows system path.  
 
