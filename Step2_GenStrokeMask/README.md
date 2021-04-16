@@ -34,15 +34,11 @@ This step has 2 purposes. The first is to automatically estimate the total strok
 
 - `conda create --name stroke_detector_env --file spec-file.txt`
 
-- **Optional:** If Nvidia GPU is accessible  `conda install tensorflow-gpu`
+- **Optional:** If Nvidia GPU is accessible then run  `conda install tensorflow-gpu`
 
 
-2. Next we need to import the trained weights for our stroke detection network.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, [click here to download](https://drive.google.com/drive/folders/1vak_PFfdLiy1uARrOCWuWO95iVOY5TNX?usp=sharing) the weights. Once downloaded, copy the entire `weights` folder into the `Step2_GenStrokeMask`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folder.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The correct file structure is:
+2. Next we need to import the trained weights for our stroke detection network. First, [click here to download](https://drive.google.com/drive/folders/1vak_PFfdLiy1uARrOCWuWO95iVOY5TNX?usp=sharing) the weights. Once downloaded, copy the entire `weights` folder into the `Step2_GenStrokeMask`
+folder. The correct file structure is:
 > Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/Step2_GenStrokeMask/  
 >> weights/  
 >>> checkpoint  
