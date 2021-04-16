@@ -1,4 +1,4 @@
-# Step 4: Aivia Analysis
+# Step 5: Aivia Analysis
 
 This step is where the preprocessed lightsheet scans are fed into Aivia 9.0. Aivia performs a number of tasks including;
 

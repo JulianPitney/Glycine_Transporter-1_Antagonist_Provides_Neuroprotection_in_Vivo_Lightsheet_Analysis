@@ -1,4 +1,4 @@
-# Step 3: Contrast Adjustment
+# Step 4: Contrast Adjustment
 
 This step is where the cropped lightsheet scans have their contrast manually adjusted using FIJI.
 
