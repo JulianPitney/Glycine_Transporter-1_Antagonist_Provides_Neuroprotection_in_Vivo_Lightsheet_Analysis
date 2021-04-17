@@ -13,7 +13,7 @@ This step has 2 purposes. The first is to automatically estimate the total strok
 
 # Usage
 
-**Requirements:**
+**Software Requirements:**
 
 | Name | Version |
 | ----------- | ----------- |

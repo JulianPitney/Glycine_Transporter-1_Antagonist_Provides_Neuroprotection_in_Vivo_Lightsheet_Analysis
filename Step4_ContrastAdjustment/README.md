@@ -13,12 +13,12 @@ After experimenting with Aivia 9.0 to identify methods that minimize vascular ne
 
 # Usage
 
-**Requirements:**
+**Software Requirements:**
 
 | Name | Version |
 | ----------- | ----------- |
 | Windows | 10 |
-| ImageJ (FIJI) | Current |
+| ImageJ (FIJI) | Most Recent |
 
 
 **Inputs:** A lightsheet scan in tiff stack format.

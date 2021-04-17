@@ -9,19 +9,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-M1 = pd.read_excel(
-    '/Users/blast/Documents/aivia data/2021-03-02 aivia output/T5654_cropped_Dendrite Set.xlsx')
-
-
-M2 = pd.read_excel(
-    '/Users/blast/Documents/aivia data/2021-03-02 aivia output/T5655_cropped_Dendrite Set.xlsx')
-
-M3 = pd.read_excel(
-    '/Users/blast/Documents/aivia data/2021-03-02 aivia output/T5662_cropped_Dendrite Set.xlsx')
-
-
-M4 = pd.read_excel(
-    '/Users/blast/Documents/aivia data/2021-03-02 aivia output/T5668_cropped_Dendrite Set.xlsx')
+M1 = pd.read_excel('/Users/blast/Documents/aivia data/2021-03-02 aivia output/T5654_cropped_Dendrite Set.xlsx')
+M2 = pd.read_excel('/Users/blast/Documents/aivia data/2021-03-02 aivia output/T5655_cropped_Dendrite Set.xlsx')
+M3 = pd.read_excel('/Users/blast/Documents/aivia data/2021-03-02 aivia output/T5662_cropped_Dendrite Set.xlsx')
+M4 = pd.read_excel('/Users/blast/Documents/aivia data/2021-03-02 aivia output/T5668_cropped_Dendrite Set.xlsx')
 
 #M1 = T5654
 #M2 = T5655
@@ -98,7 +89,7 @@ M4_dia = M4_filter['diameter']#.plot(kind="hist", bins=100, xlim=(0,10), figsize
 # axes[1,0].set_xlabel("diameter")
 # axes[0,1].set_xlabel("diameter")
 # axes[1,1].set_xlabel("diameter")
-  
+
 
 
 
@@ -221,7 +212,7 @@ np.savetxt('/Users/blast/Documents/aivia data/2021-03-02 aivia output/figures/de
 # den.set_ylabel("vessel count (vessels/mm3)")
 # for p in den.patches:
 #     den.annotate(str(p.get_height()), (p.get_x() * 1.005, p.get_height() * 1.005))
-    
+
 # plt.savefig('/Users/blast/Documents/aivia data/
 
 
@@ -289,4 +280,3 @@ M4_len_count.to_excel('/Users/blast/Documents/aivia data/2021-03-02 aivia output
 
 
 M1_filtered['length'].head()
-

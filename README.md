@@ -9,6 +9,40 @@
 # Background
 This repository contains all the material required to replicate and understand the lightsheet analysis pipeline used for the paper "Glycine Transporter-1 Antagonism Induced Neuroprotection in Vivo".
 
+# Requirements
+This guide is intended for users with basic programming skills as well as basic familiarity with scientific image analysis. Specifics are listed below.
+
+**User Skills:**
+- Basic familiarity with using command line utilities.
+- Basic familiarity with Python.
+- Basic familiarity with Excel.
+- Basic familiarity with FIJI.  
+- Ability to navigate complex GUIs (Aivia).
+
+**Software Requirements:**
+
+| Name | Version |
+| ----------- | ----------- |
+| Windows | 10 |
+| Aivia | 9.0 |
+| Terastitcher-portable (command-line version) | 1.11.10 |
+| ImageJ (FIJI) | Most Recent |
+| Excel | Most recent |
+| Anaconda | 2020.11 |
+| Python | 3.6.7 |
+| tensorflow-gpu (optional) | 2.4.1 |
+| tiff-stack-crop-tool | 0.6 |
+| Pandas | 1.2.4 |
+| Numpy | 1.20.2 |
+| Matplotlib | 3.4.1 |
+
+
+**Minimum Hardware Recommendations:**
+- CPU: i9 9900k
+- RAM: 64GB
+- GPU: 2080ti
+- Storage: 1TB
+
 # Usage
 The root directory of this repository contains 7 sub folders labeled Step[1-7]. Each subfolder contains a README detailing specifics about it's particular step in the pipeline. Each subfolder contains:
 

@@ -13,7 +13,7 @@ Since our samples were whole brains, our objective lens and image detector were 
 # Usage
 The terastitch.py script in this repository takes a directory of tiled lightsheet scans as input. It then stitches each of those sets of tiles into a single scan. It will loop over every scan in the directory until they've all been stitched.
 
-**Requirements:**
+**Software Requirements:**
 
 | Name | Version |
 | ----------- | ----------- |
