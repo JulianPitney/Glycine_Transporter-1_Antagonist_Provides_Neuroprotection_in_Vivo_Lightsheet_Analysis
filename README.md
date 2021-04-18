@@ -3,6 +3,7 @@
 # Table of Contents
 * [Background](#background)
 * [Usage](#usage)
+* [Troubleshooting](#troubleshooting)
 * [Contact](#contact)
 * [License](#license)
 
@@ -61,6 +62,9 @@ The root directory of this repository contains 7 sub folders labeled Step[1-7]. 
     5. [Aivia Analysis](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step5_AiviaAnalysis)
     6. [Process Aivia Results](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step6_ProcessAiviaResults)
     7. [Stats Analysis](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step7_StatsAnalysis)
+
+# Troubleshooting
+For assistance, first check the `Troubleshooting` section on the page of the step you're having difficulty with. If your issue isn't addressed there, open a GitHub issue. Give details about your execution environment, any errors thrown, and a clear description of what's goin wrong. We watch our repositories and will assist you as soon as we're available.
 
 # Contact
 * Boyang Wang (jwang149@gmail.com)
