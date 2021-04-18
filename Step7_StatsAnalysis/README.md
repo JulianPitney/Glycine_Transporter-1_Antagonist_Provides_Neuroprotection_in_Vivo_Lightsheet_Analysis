@@ -24,8 +24,11 @@ The purpose of this step is to gain statistical insights about the high-level me
 **Outputs:** Results of statistical tests.
 
 **Steps:**
-1. Manually copy and paste data from input Excel sheets into a new Excel sheet.
-2. Run a Student's t-test on the imported data.
+1. Manually copy and paste individual animal data from input Excel sheet and sort data per condition into separate columns.
+
+2. Compute both raw numbers and %total numbers per condition for length, diameter and density.
+
+3. Import new data into GraphPad Prism (v.9.1.0) analysis software to generate graphs and to run appropriate statistical analysis (Students t-test; ANOVA; Mixed-effects analysis when sample sizes are uneven).
 
 # Troubleshooting
 No common problems reported yet.

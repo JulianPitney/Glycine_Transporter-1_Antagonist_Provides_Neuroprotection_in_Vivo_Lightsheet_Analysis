@@ -33,7 +33,7 @@ The terastitch.py script in this repository takes a directory of tiled lightshee
 - **Variables:** [ref1, ref2, ref3, vxl1, vxl2, vxl3, imin_regex, imin_plugin, volin_plugin, oH, oV, sH, sV, sD]
 
 
-3. From the command line, navigate to the directory where you've placed all your lightsheet scans (make sure the scans have the directory/file structure specified by Terastitcher's documentation or it will not work. Our lightsheet microscope spits our scans out in this format by default so no modification should be needed). From this directory, run the `terastitch.py` file supplied by this repository. E.G `cd ~\path-to-my-scans\ && python ~\Glycine_Transporter-            1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis\Step1_TileStitch\terastitch.py`
+3. From the command line, navigate to the directory where you've placed all your lightsheet scans (make sure the scans have the directory/file structure specified by Terastitcher's documentation or it will not work. Our lightsheet microscope spits our scans out in this format by default so no modification should be needed). From this directory, run the `terastitch.py` file supplied by this repository. E.G `cd ~\path-to-my-scans\ && python ~\Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis\Step1_TileStitch\terastitch.py`
 
 4. If everything worked correctly, the program should begin looping over your scans and stitching them together until they're all stitched. The stitched scans will be inside a directory called `stitched` that's been placed inside each scan's folder. **Note:** This is completely CPU bound and could take many hours if you have many large scans.
 

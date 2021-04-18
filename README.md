@@ -1,4 +1,4 @@
-# Glycine Transporter-1 Antagonism Induced Neuroprotection in Vivo: Lightsheet Analysis
+# Glycine Transporter-1 Antagonist Provides Neuroprotection in Vivo: Lightsheet Analysis
 
 # Table of Contents
 * [Background](#background)
@@ -7,7 +7,7 @@
 * [License](#license)
 
 # Background
-This repository contains all the material required to replicate and understand the lightsheet analysis pipeline used for the paper "Glycine Transporter-1 Antagonism Induced Neuroprotection in Vivo".
+This repository contains all the material required to replicate and understand the lightsheet analysis pipeline used for the paper "Glycine Transporter-1 Antagonist Provides Neuroprotection in Vivo".
 
 # Requirements
 This guide is intended for users with basic programming skills as well as basic familiarity with scientific image analysis. Specifics are listed below.
@@ -54,13 +54,13 @@ The root directory of this repository contains 7 sub folders labeled Step[1-7]. 
 * Contact information pointing at whoever designed that step.
 
   **Steps:**
-    1. [Tile Stitch](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step1_TileStitch)
-    2. [Gen Stroke Mask](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step2_GenStrokeMask)
-    3. [Crop Volume](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step3_CropVolume)
-    4. [Contrast Adjustment](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step4_ContrastAdjustment)
-    5. [Aivia Analysis](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step5_AiviaAnalysis)
-    6. [Process Aivia Results](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step6_ProcessAiviaResults)
-    7. [Stats Analysis](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step7_StatsAnalysis)
+    1. [Tile Stitch](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step1_TileStitch)
+    2. [Gen Stroke Mask](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step2_GenStrokeMask)
+    3. [Crop Volume](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step3_CropVolume)
+    4. [Contrast Adjustment](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step4_ContrastAdjustment)
+    5. [Aivia Analysis](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step5_AiviaAnalysis)
+    6. [Process Aivia Results](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step6_ProcessAiviaResults)
+    7. [Stats Analysis](https://github.com/JulianPitney/Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/tree/master/Step7_StatsAnalysis)
 
 # Contact
 * Boyang Wang (jwang149@gmail.com)

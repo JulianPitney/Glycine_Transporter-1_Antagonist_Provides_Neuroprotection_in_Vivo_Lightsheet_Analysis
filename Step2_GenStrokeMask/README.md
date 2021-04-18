@@ -30,7 +30,7 @@ This step has 2 purposes. The first is to automatically estimate the total strok
 
 1. First we need to set up our environment and install dependencies. To do this, run the following commands in order.   
 
-- `cd Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/Step2_GenStrokeMask/requirements`
+- `cd Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/Step2_GenStrokeMask/requirements`
 
 - `conda create --name stroke_detector_env --file spec-file.txt`
 
@@ -39,7 +39,7 @@ This step has 2 purposes. The first is to automatically estimate the total strok
 
 2. Next we need to import the trained weights for our stroke detection network. First, [click here to download](https://drive.google.com/drive/folders/1vak_PFfdLiy1uARrOCWuWO95iVOY5TNX?usp=sharing) the weights. Once downloaded, copy the entire `weights` folder into the `Step2_GenStrokeMask`
 folder. The correct file structure is:
-> Glycine_Transporter-1_Antagonism_Induced_Neuroprotection_in_Vivo_Lightsheet_Analysis/Step2_GenStrokeMask/  
+> Glycine_Transporter-1_Antagonist_Provides_Neuroprotection_in_Vivo_Lightsheet_Analysis/Step2_GenStrokeMask/  
 >> weights/  
 >>> checkpoint  
 >>> model.tf.data-00000-of-00002  
