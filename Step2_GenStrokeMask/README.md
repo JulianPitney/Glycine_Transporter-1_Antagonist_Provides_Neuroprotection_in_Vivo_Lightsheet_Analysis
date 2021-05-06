@@ -22,9 +22,13 @@ This step has 2 purposes. The first is to automatically estimate the total strok
 | Python | 3.6.7 |
 | tensorflow-gpu (optional) | 2.4.1 |
 
-**Inputs:** FILL OUT LATER FRANK
+**Inputs:** 
+The stitched scan file with postfix `.tif`.
 
-**Outputs:** FILL OUT LATER FRANK
+**Outputs:** 
+1. A folder containing all the segmented mask for each slice in the scan.
+2. A pie chart demonstrating the percentage of Stroke/Healthy tissue/Background.
+
 
 **Steps:**
 
